@@ -1,0 +1,105 @@
+{
+  "version": "4.5.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Closed to all vehicles",
+      "points": [
+        [
+          37.1875,
+          71.4375
+        ],
+        [
+          323.125,
+          358.9375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "triangle",
+      "points": [
+        [
+          360.625,
+          358.9375
+        ],
+        [
+          666.875,
+          69.875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "rectangle",
+      "points": [
+        [
+          695.0,
+          68.3125
+        ],
+        [
+          1004.375,
+          357.375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "fill circle",
+      "points": [
+        [
+          35.625,
+          532.375
+        ],
+        [
+          324.6875,
+          818.3125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "polygon",
+      "points": [
+        [
+          376.25,
+          527.6875
+        ],
+        [
+          685.625,
+          821.4375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "rhombus",
+      "points": [
+        [
+          701.25,
+          526.125
+        ],
+        [
+          1009.0625,
+          823.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "basic_road.png",
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}
